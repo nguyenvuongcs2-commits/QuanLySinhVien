@@ -15,7 +15,7 @@ public class Student {
 
     public void hienThi() {
         System.out.println("Ma SV: " + maSV);
-        System.out.println("Ten sinh vien: " + hoTen);
+        System.out.println("Ho va ten sinh vien: " + hoTen);
         System.out.println("Ngay sinh: " + ngaySinh);
     }
 }
